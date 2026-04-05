@@ -6,8 +6,9 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19883&type=drm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/8RcLpMj5NQVQYa_nANKKki9bcdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999295/7538ca.jpg" ch-number="3", Persikad vs PSMS Medan - Pegadaian Championship
-https://spacetv.my.id/index.mpd?id=19883&type=dash|User-Agent=VidioPlayer/6.31.6 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://spacetv.my.id/index.mpd?id=19883&type=dash|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=20833&type=drm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/PXYMkfyAuPhVU_CL4e47QOlWNhw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000555/24de05.jpg" ch-number="4", PSIS Semarang vs PS. Barito Putera - Pegadaian Championship
 https://spacetv.my.id/index.mpd?id=20833&type=dash|User-Agent=VidioPlayer/6.31.6
