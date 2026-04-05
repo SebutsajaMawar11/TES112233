@@ -4,7 +4,8 @@
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19883&type=drm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19883&type=drm
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/8RcLpMj5NQVQYa_nANKKki9bcdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999295/7538ca.jpg" ch-number="3", Persikad vs PSMS Medan - Pegadaian Championship
 https://spacetv.my.id/index.mpd?id=19883&type=dash|User-Agent=VidioPlayer/6.31.6
 
@@ -18,7 +19,8 @@ https://spacetv.my.id/index.mpd?id=20833&type=dash|User-Agent=VidioPlayer/6.31.6
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/1246/1246264.png" group-title="📁 Event LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/h-vRtdnc0Lh0KHssMDejbppKPrI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006547/3c5b74.jpg" ch-number="5", Zizou Bergs/Jannik Sinner vs Tomas Machac/Casper Ruud - Round 1 | ATP 1000: Rolex Monte-Carlo Masters 2026
 https://vdo.indi1.workers.dev/master.mpd?id=20887&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=20884&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vdo.indi1.workers.dev/?id=20884&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
 #EXTINF:-1 group-logo="https://pngimg.com/d/dot_PNG44.png" group-title="📁 Event Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UH3dzXKMQE3JhI3OUlh340Ujbsg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006399/69a24f.jpg" ch-number="6", Mariano Navone vs Daniel Merida - Final | ATP 250: Tiriac Open presented by Unicredit Bank 2026
 https://vdo.indi1.workers.dev/master.mpd?id=20884&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
